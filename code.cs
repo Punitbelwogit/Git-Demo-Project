@@ -4,8 +4,9 @@ public class myclass
     {
         return a + b;
     }
-    public int Subtractnumber(int a, int b)
+
+public int Substractnumber(int a, int b)
     {
-        return a - b;
-    }
-}
+        int c = a - b;
+        return c;
+    }}
