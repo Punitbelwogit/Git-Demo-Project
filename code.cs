@@ -4,4 +4,8 @@ public class myclass
     {
         return a + b;
     }
+    public int Subtractnumber(int a, int b)
+    {
+        return a - b;
+    }
 }
